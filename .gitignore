@@ -1,0 +1,26 @@
+artifacts
+cache
+cache_forge
+node_modules
+networks
+out
+
+## key
+.accounts.json
+_notes.txt
+
+
+# environment
+.env
+
+# build files
+dist
+typechain-types
+coverage
+coverage.json
+
+# MACOS
+.DS_Store
+
+deployments_legacy
+contracts/liquidator
